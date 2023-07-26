@@ -3,4 +3,9 @@ h1{
     display: flex;
     border: solid;
     border-radius: 15px;
+    background-color: rgb(181, 211, 46);
+    color: rgb(71, 7, 7);
+}
+body{
+    background-color: rgb(75, 64, 175);
 }
